@@ -1,10 +1,2 @@
- Volume in drive C is SYS
- Volume Serial Number is 2CBF-933D
+change 1
 
- Directory of C:\Users\avde\Desktop\AvikProject
-
-05/28/2018  02:29 PM    <DIR>          .
-05/28/2018  02:29 PM    <DIR>          ..
-05/28/2018  02:29 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  137,974,112,256 bytes free
